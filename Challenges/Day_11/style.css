@@ -1,5 +1,5 @@
 body {
-    background: #f81717ff;
+    background: #ffffffff;
 }
 
 .center {
@@ -17,9 +17,9 @@ body {
 .pulse {
     width: 120px;
     height: 120px;
-    color: rgba(4, 229, 245, 1);
+    color: rgba(253, 8, 192, 1);
     border-radius: 50%;
-    background-color: #2226e6ff;
+    background-color: #ee79d5ff;
     line-height: 120px;
     animation: animate 3s linear infinite;
     justify-content: center;
